@@ -1,32 +1,11 @@
 # ITP Unconference ::: DIY sensors
 
-This is a workshop to introduce you to how use textile conductive materials to create capacitive sensors.
-All schematics & libraries used are available on this repo.
-
-## Textile Conductive Materials
-
-- About
-Lorem Lorem
-- Advantages
-Lorem Lorem
-- Examples
-Lorem Lorem
-
-## Capacitive Sensors
-
-- What is it
-Lorem Lorem
-- How they work
-Lorem Lorem
-- How the capsense library work
-Lorem Lorem
-
+This is a workshop to instigate you to use textile conductive materials to create capacitive sensors
 For the purpose of this workshop we'll create a strech sensor with conductive thread (an alpha version of what was seen [here](https://renatagaui.com/in-the-silence-of-my-lonely-room/) ). 
 
-## Testing Our Strech Sensor
 
 ### for this workshop you'll need:
-- Conductive thread knitted on slipknot (or whatever arrangement/mechanism you feel could work)
+- Conductive thread on a slipknot chain (or whatever arrangement/mechanism you feel could work)
 - Arduino + breadboard + usb cable
 - Resistor between 50k - 50M (we'll be using a 10M)
 - Alligator clips
@@ -50,4 +29,6 @@ For the purpose of this workshop we'll create a strech sensor with conductive th
 2. See if the stretch sensor is working through the serial monitor.
 3. taran! Go make your own sensors =)
 
-
+## References
+- [Kobakant DIY Session](http://www.kobakant.at/DIY/)
+- [Syscom advanced materials](http://www.metalcladfibers.com/product-overview/)
